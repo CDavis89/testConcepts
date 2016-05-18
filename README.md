@@ -1,2 +1,4 @@
 # testConcepts
-Testing Git, code snippets and so on
+Testing Git, code snippets and so on.
+
+
